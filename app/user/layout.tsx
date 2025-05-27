@@ -33,7 +33,7 @@ export default async function UserLayout({
                   <Breadcrumb>
                   <BreadcrumbList>
                     <BreadcrumbItem className="hidden md:block">
-                    <BreadcrumbLink href="/admin" className="text-words bg-words">
+                    <BreadcrumbLink href="/student" className="text-words bg-words">
                       Student
                     </BreadcrumbLink>
                     </BreadcrumbItem>
